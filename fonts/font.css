@@ -2,28 +2,28 @@
 
 @font-face {
   font-family: 'CaviarDreams';
-  src: url('caviar_dreams/CaviarDreams.ttf');
+  src: url('caviar_dreams/CaviarDreams.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'CaviarDreams';
-  src: url('caviar_dreams/CaviarDreams_Bold.ttf');
+  src: url('caviar_dreams/CaviarDreams_Bold.ttf') format('truetype');
   font-weight: bold;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'CaviarDreams';
-  src: url('caviar_dreams/CaviarDreams_BoldItalic.ttf');
+  src: url('caviar_dreams/CaviarDreams_BoldItalic.ttf') format('truetype');
   font-weight: bold;
   font-style: italic;
 }
 
 @font-face {
   font-family: 'CaviarDreams';
-  src: url('caviar_dreams/CaviarDreams_Italic.ttf');
+  src: url('caviar_dreams/CaviarDreams_Italic.ttf') format('truetype');
   font-weight: normal;
   font-style: italic;
 }
@@ -33,21 +33,21 @@
 
 @font-face {
   font-family: 'Comfortaa';
-  src: url('comfortaa/Comfortaa-Regular.ttf');
+  src: url('comfortaa/Comfortaa-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Comfortaa';
-  src: url('comfortaa/Comfortaa-Bold.ttf');
+  src: url('comfortaa/Comfortaa-Bold.ttf') format('truetype');
   font-weight: bold;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Comfortaa';
-  src: url('comfortaa/Comfortaa-Light.ttf');
+  src: url('comfortaa/Comfortaa-Light.ttf') format('truetype');
   font-weight: normal;
   font-style: italic;
 }
@@ -57,28 +57,28 @@
 
 @font-face {
   font-family: LouisGeorgeCafe;
-  src: url('louis_george_caf/Louis George Cafe.ttf');
+  src: url('louis_george_caf/Louis George Cafe.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: LouisGeorgeCafe;
-  src: url('louis_george_caf/Louis George Cafe Bold.ttf');
+  src: url('louis_george_caf/Louis George Cafe Bold.ttf') format('truetype');
   font-weight: bold;
   font-style: normal;
 }
 
 @font-face {
   font-family: LouisGeorgeCafe;
-  src: url('louis_george_caf/Louis George Cafe Light.ttf');
+  src: url('louis_george_caf/Louis George Cafe Light.ttf') format('truetype');
   font-weight: lighter;
   font-style: normal;
 }
 
 @font-face {
   font-family: LouisGeorgeCafe;
-  src: url('louis_george_caf/Louis George Cafe Italic.ttf');
+  src: url('louis_george_caf/Louis George Cafe Italic.ttf') format('truetype');
   font-weight: normal;
   font-style: italic;
 }
@@ -88,28 +88,28 @@
 
 @font-face {
   font-family: 'Walkaway';
-  src: url('walkwaway/Walkaway Black.ttf');
+  src: url('walkwaway/Walkaway Black.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Walkaway';
-  src: url('walkwaway/Walkaway Bold.ttf');
+  src: url('walkwaway/Walkaway Bold.ttf') format('truetype');
   font-weight: bold;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Walkaway';
-  src: url('walkwaway/Walkaway Oblique Bold.ttf');
+  src: url('walkwaway/Walkaway Oblique Bold.ttf') format('truetype');
   font-weight: bold;
   font-style: italic;
 }
 
 @font-face {
   font-family: 'Walkaway';
-  src: url('walkwaway/Walkaway Oblique Black.ttf');
+  src: url('walkwaway/Walkaway Oblique Black.ttf') format('truetype');
   font-weight: normal;
   font-style: italic;
 }
