@@ -1,0 +1,115 @@
+/*  CAVIAR DREAMS */
+
+@font-face {
+  font-family: 'CaviarDreams';
+  src: url('caviar_dreams/CaviarDreams.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CaviarDreams';
+  src: url('caviar_dreams/CaviarDreams_Bold.ttf');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CaviarDreams';
+  src: url('caviar_dreams/CaviarDreams_BoldItalic.ttf');
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'CaviarDreams';
+  src: url('caviar_dreams/CaviarDreams_Italic.ttf');
+  font-weight: normal;
+  font-style: italic;
+}
+
+
+/*  COMFORTAA */
+
+@font-face {
+  font-family: 'Comfortaa';
+  src: url('comfortaa/Comfortaa-Regular.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Comfortaa';
+  src: url('comfortaa/Comfortaa-Bold.ttf');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Comfortaa';
+  src: url('comfortaa/Comfortaa-Light.ttf');
+  font-weight: normal;
+  font-style: italic;
+}
+
+
+/*  LOUIS GEORGE CAFE */
+
+@font-face {
+  font-family: LouisGeorgeCafe;
+  src: url('louis_george_caf/Louis George Cafe.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: LouisGeorgeCafe;
+  src: url('louis_george_caf/Louis George Cafe Bold.ttf');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: LouisGeorgeCafe;
+  src: url('louis_george_caf/Louis George Cafe Light.ttf');
+  font-weight: lighter;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: LouisGeorgeCafe;
+  src: url('louis_george_caf/Louis George Cafe Italic.ttf');
+  font-weight: normal;
+  font-style: italic;
+}
+
+
+/*  WALKAWAY */
+
+@font-face {
+  font-family: 'Walkaway';
+  src: url('walkwaway/Walkaway Black.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Walkaway';
+  src: url('walkwaway/Walkaway Bold.ttf');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Walkaway';
+  src: url('walkwaway/Walkaway Oblique Bold.ttf');
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Walkaway';
+  src: url('walkwaway/Walkaway Oblique Black.ttf');
+  font-weight: normal;
+  font-style: italic;
+}
